@@ -32,14 +32,16 @@ Options
 
 History
 ---
+A few of my prouder moments.
+
 ### [cucumberjs-browser](https://www.npmjs.org/package/cucumberjs-browser)
-CLI tool for running cucumber specs in a browser! with support for reporting to testling and saucelabs
+CLI tool for running [CucumberJS](https://github.com/cucumber/cucumber-js) specs in a browser! with support for reporting to testling and saucelabs
 
 ### [grunt-forever](https://www.npmjs.org/package/grunt-forever)
 [Grunt](https://www.npmjs.org/package/grunt) task plugin for popular [forever](https://www.npmjs.org/package/forever) module
 
 ### [require-expose-plugin](https://github.com/bustardcelly/require-expose-plugin)
-RequireJS module plugin for exposing dependencies on the `module` object for easy test stubbing
+[RequireJS](https://www.npmjs.org/package/requirejs) module plugin for exposing dependencies on the `module` object for easy test stubbing
 
 ### [radiopi](https://github.com/bustardcelly/radiopi)
 Python program to be run on a Raspberry Pi that consumes a directory of audio files and sorts them by year. Has support for potentiometer reading to determine year and playback of audio files.
