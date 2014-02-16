@@ -1,0 +1,19 @@
+Hello Good People of Nodejitsu,
+
+My name is Todd Anderson. I am writing in regards to the Software Engineer position posted on your company website.
+
+Over the past 12 years I have been creating software for the enterprise and entertainment industries. My primary skills and expertise reside in front-end development, testing and analysis, though I do wear the full-stack hat often when node comes into play as the server-side technology of choice for a project.
+
+I cut my teeth on software development in the early days of Flash and fell in with a community of developers who were determined to bend this piece of "animation" software to be used as a platform for application development targeting desktop, kiosks, and - obviously - the web. For the past four years my focus has changed from propriety web plugins to the open web and I have been involved in dozens of JavaScript projects professionally, and countless ones on my own which I often release to the wild on github.
+
+As of the last two years, I have been more focused on the actual creation, curation and maintenaince of software itself and becoming a huge advocate for test driven development and agile processes. Folded into these practices, as well, is the interest in analysis of performance and end-user experience. I have written several articles about such topics on my blog at http://custardbelly.com/blog and invite you to take a look if interested.
+
+I am intrigued with the possibility of working alongside such talented developers at Nodejitsu and believe my expertise and knowledge of delivering test-driven applications can be of benefit for the company.
+
+Regards,
+Todd Anderson
+
+toddanderson@taanderson.com
+http://custardbelly.com/blog
+https://github.com/bustardcelly
+@_toddanderson_

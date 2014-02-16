@@ -1,0 +1,29 @@
+{
+  "name": "toddanderson-application",
+  "version": "0.1.0",
+  "description": "Application for Software Engineer Position at Nodejitsu.",
+  "author": {
+    "name": "Todd Anderson",
+    "email": "toddanderson@taanderson.com",
+    "url": "http://custardbelly.com/blog"
+  },
+  "keywords": [
+    "todd anderson",
+    "nodejitsu",
+    "software engineer"
+  ],
+  "homepage": "http://custardbelly.com/resume/",
+  "licenses": [
+    {
+      "type": "WTFPL"
+    }
+  ],
+  "scripts": {
+    "coverletter": "node cl2speech.js"
+  },
+  "dependencies": {
+    "colors": "~0.6.2",
+    "map-stream": "~0.1.0",
+    "minimist": "0.0.7"
+  }
+}
